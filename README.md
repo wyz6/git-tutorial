@@ -7,3 +7,4 @@
 	- feature-A
 ## This is new checkout
 	- fix-B
+	- feature-C
